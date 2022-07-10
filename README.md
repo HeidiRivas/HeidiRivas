@@ -3,8 +3,7 @@
 
 - 🔭 Actualmente estoy estudiando en Laboratoria , Frontend Web Developer Trainning . Proyecto actual 👨‍💻=Burguer Queen
 
-- 🌱 Actualmente estoy aprendiendo **CSS,inglés,React ![image](https://user-images.githubusercontent.com/102159190/178126502-4b9d613c-7b4c-465b-807e-0808be92ade3.png)
-**
+- 🌱 Actualmente estoy aprendiendo **CSS,inglés,React**
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
