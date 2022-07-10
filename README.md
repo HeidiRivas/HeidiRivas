@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Heidi Rivas</h1>
 <h3 align="center">Una apasionada desarrolladora frontend de Chile</h3>
 
-- 🔭 Actualmente estoy trabajando en [Laboratoria]( Burguer Queen)
+- 🔭 Actualmente estoy estudiando en Laboratoria <img src="https://cdn-images-1.medium.com/max/1200/1*mlFkczi1KC2fxq4pfPxWHQ.png"alt="css3" width="40" height="40"/>( Burguer Queen)
 
 - 🌱 Actualmente estoy aprendiendo **CSS,inglés**
 
