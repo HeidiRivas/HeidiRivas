@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋 soy Heidi Rivas</h1>
 <h3 align="center">Una apasionada desarrolladora frontend de Chile</h3>
 
-- 🔭 Actualmente estoy estudiando en Laboratoria , Frontend Web Developer Trainning . Proyecto actual 👨‍💻=Burguer Queen
+- 🔭  Frontend Web Developer
 
-- 🌱 Actualmente estoy aprendiendo **CSS,inglés,React**
+- 🌱 Actualmente estoy aprendiendo **inglés,React,APIs**
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
